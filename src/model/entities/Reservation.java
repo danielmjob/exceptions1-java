@@ -62,9 +62,5 @@ public class Reservation {
         +" night(s)";
     }
 
-
-    
-    
-
     
 }
