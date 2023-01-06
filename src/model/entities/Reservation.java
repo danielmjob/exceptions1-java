@@ -5,6 +5,9 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 public class Reservation {
+
+    // Jeito (RUIM) de resolver
+    
     private Integer roomNumber;
     private Date checkin;
     private Date checkout;
